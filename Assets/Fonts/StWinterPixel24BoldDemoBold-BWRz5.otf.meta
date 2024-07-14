@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7defa707f4655a04ea368d7e75344d4a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ST Winter Pixel 24 BOLD DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a3c63601a1389b44f988a33ff40f1838, type: 3}
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
